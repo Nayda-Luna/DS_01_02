@@ -1,0 +1,14 @@
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\bin\Debug\net8.0\DS_Aula02.exe
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\bin\Debug\net8.0\DS_Aula02.deps.json
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\bin\Debug\net8.0\DS_Aula02.runtimeconfig.json
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\bin\Debug\net8.0\DS_Aula02.dll
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\bin\Debug\net8.0\DS_Aula02.pdb
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.AssemblyInfoInputs.cache
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.AssemblyInfo.cs
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.csproj.CoreCompileInputs.cache
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.dll
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\refint\DS_Aula02.dll
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.pdb
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\DS_Aula02.genruntimeconfig.cache
+C:\Users\lunap\OneDrive\Área de Trabalho\2DS\DS_Aula02\obj\Debug\net8.0\ref\DS_Aula02.dll
